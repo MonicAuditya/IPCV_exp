@@ -1,7 +1,4 @@
-# Image Processing and Computer Vision
-## Semister 6
-
-## Lab Index
+## Index
 
 | Lab No | Title                                   | Description                                                                 |
 |-------|------------------------------------------|-----------------------------------------------------------------------------|
@@ -15,9 +12,3 @@
 | LAB8  | Object Detection using YOLOv8             | Implementation of real-time object detection using the YOLOv8 model on images and videos. |
 | LAB9  | Depth Estimation                          | Estimating depth information from stereo images using left and right image pairs. |
 | LAB10 | Feature Matching using RANSAC             | Matching features between two images and estimating transformations using RANSAC for robust matching. |
-
-
-# Author
-**Name:** Monic Auditya A<br>
-**Course:** Image Processing and Computer Vision<br>
-**Repository:** Image-Processing-and-Computer-Vision<br>
